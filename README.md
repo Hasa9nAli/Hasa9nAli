@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A passionate frontend developer from IRAQ</h3>
+<h3 align="center">A frontend developer from IRAQ</h3>
 
 - 🔭 I’m currently working on **Encryption & Decryption using python**
 
