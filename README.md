@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Encryption & Decryption using python**
 
-- 👯 i'm working with my friend **CV and upload product project**
+- 👯 i'm working in react hook now**
 
 - 👨‍💻 All of my projects are available at [near....](near....)
 
 - 💬 Ask me about **Html, Css, Js, Python , OOP , Data Structure, tkinter , PyQt5**
 
-- 📫 How to reach me **hasanalihasan0020@gmail**
+- 📫 How to reach me **ihasanalihasan@gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
