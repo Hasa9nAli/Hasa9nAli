@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [near....](near....)
 
-- 💬 Ask me about **Html, Css, Js, Python , OOP , Data Structure, tkinter , PyQt5**
+- 💬 Ask me about **Html, Css, Js , React, Python , C++ , OOP , Data Structure, tkinter , PyQt5**
 
 - 📫 How to reach me **ihasanalihasan@gmail**
 
