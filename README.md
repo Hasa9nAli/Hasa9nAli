@@ -5,7 +5,7 @@
 
 - 👯 i'm working in react hook now**
 
-- 👨‍💻 All of my projects are available at [](I think soon ....)
+- 👨‍💻 All of my projects are available at (I think soon ....)
 
 - 💬 Ask me about **Html, Css, Js , React, Python , C++ , OOP , Data Structure, tkinter , PyQt5**
 
