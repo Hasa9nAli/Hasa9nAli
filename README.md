@@ -3,10 +3,7 @@
 </div>  
  
 
-### <div align="center">I'm Hasan, Leader Of Google Developer Student Clubs at the University of Mosul
- Student at the University of Mosul at Software Engineering Department 
- third stage 
- 👨‍💻 Junior Front End Developer🚀
+### <div align="center">I'm Hasan, Leader Of Google Developer Student Clubs at the University of Mosul </br> Student at the University of Mosul at Software Engineering Department </br> third stage </br> 👨‍💻 Junior Front End Developer🚀
 </div>  
   
 
