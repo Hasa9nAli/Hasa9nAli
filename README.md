@@ -7,14 +7,11 @@
 </div>  
   
 
-- 🔭 I’m currently working on
-[دورة كالبنيان المرصوص](https://github.com/Hasa9nAli/kalbonian_EL_marsos)  
-  
+- 🔭 I’m currently working with THE CHANCE   
 
-- 🌱 I’m currently learning MERN Stack  
+- 🌱 I’m currently learning Android Development
   
-
-- ❓ Ask me about anything related to the MERN stack and associated technologies  
+- ❓ Ask me about anything related to the Front-end and kotlin mobile development and associated technologies  
   
 
   
