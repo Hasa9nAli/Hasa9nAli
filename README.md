@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to the Front-end and kotlin mobile development and associated technologies  
   
 
-  
+  https://github-profile-trophy.vercel.app/?username=Hasa9nAli&theme=onedark
   
 ![contributions](https://user-images.githubusercontent.com/92353024/207900805-96b3f22f-dc16-4235-b306-cbe70ad62728.svg)
 
