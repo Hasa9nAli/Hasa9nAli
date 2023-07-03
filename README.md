@@ -3,7 +3,7 @@
 </div>  
  
 
-### <div align="center">I'm Hasan, Leader Of Google Developer Student Clubs at the University of Mosul </br> Student at the University of Mosul at Software Engineering Department </br> third stage </br> 👨‍💻 Junior Front End Developer🚀
+### <div align="center">I'm Hasan, Leader Of Google Developer Student Clubs at the University of Mosul </br> Student at the University of Mosul at Software Engineering Department </br> third stage </br> 👨‍💻 Junior Android Developer🚀
 </div>  
   
 
@@ -14,8 +14,8 @@
 - ❓ Ask me about anything related to the Front-end and kotlin mobile development and associated technologies  
   
 
-  https://github-profile-trophy.vercel.app/?username=Hasa9nAli&theme=onedark
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasa9nAli" alt="Hasa9nAli" /></a> </p>  
+
 ![contributions](https://user-images.githubusercontent.com/92353024/207900805-96b3f22f-dc16-4235-b306-cbe70ad62728.svg)
 
 <br/>  
