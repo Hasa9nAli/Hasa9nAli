@@ -14,9 +14,10 @@
 - ❓ Ask me about anything related to the Front-end and kotlin mobile development and associated technologies  
   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasa9nAli" alt="Hasa9nAli" /></a> </p>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hasa9nAli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hasa9nAli&theme=onedark)](https://github.com/Hasa9nAli/github-profile-trophy)
+
+<br/>
 
 ![contributions](https://user-images.githubusercontent.com/92353024/207900805-96b3f22f-dc16-4235-b306-cbe70ad62728.svg)
 
