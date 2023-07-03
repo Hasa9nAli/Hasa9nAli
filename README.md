@@ -16,6 +16,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasa9nAli" alt="Hasa9nAli" /></a> </p>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hasa9nAli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![contributions](https://user-images.githubusercontent.com/92353024/207900805-96b3f22f-dc16-4235-b306-cbe70ad62728.svg)
 
 <br/>  
