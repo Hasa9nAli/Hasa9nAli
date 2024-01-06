@@ -65,7 +65,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ihasanalihasan/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=Hasa9nAli&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasa9nAli&theme=Hasa9nAli&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 
