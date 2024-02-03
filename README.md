@@ -5,25 +5,13 @@
 
 ### <div align="center">I'm Hasan, Leader Of Google Developer Student Clubs at the University of Mosul </br> Student at the University of Mosul at Software Engineering Department </br> third stage </br> 👨‍💻 Junior Android Developer🚀
 </div>  
-  
-
-- 🔭 I’m currently working with THE CHANCE   
-
 - 🌱 I’m currently learning Android Development
-  
 - ❓ Ask me about anything related to the Front-end and kotlin mobile development and associated technologies  
   
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hasa9nAli&theme=onedark)](https://github.com/Hasa9nAli/github-profile-trophy)
-
 <br/>
-
 ![contributions](https://user-images.githubusercontent.com/92353024/207900805-96b3f22f-dc16-4235-b306-cbe70ad62728.svg)
-
 <br/>  
-
-
 ### Teconlogies  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -40,10 +28,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
 </div>
-
 <br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Hasa9nAli" target="_blank">
@@ -51,9 +36,6 @@
 </a>
 <a href="https://stackoverflow.com/users/18873609/hasan-ali" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/has9n2" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ihasanalihasan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -76,24 +58,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasa9nAli&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
 ## Recent Blog Posts  
-  
-
 <br/>  
-
-  
-
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Hasa9nAli&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/ihasanali" target="_blank" style="display: inline-block;">
                 <img
@@ -102,6 +74,4 @@
                 />
             </a></div>
 <br />
-
 ----
-
