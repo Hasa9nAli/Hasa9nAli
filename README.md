@@ -10,8 +10,7 @@ data class Developer(
     val education: String = "BSc Software Engineering (4th Year)",
     val university: String = "University of Mosul",
     val passions: List<String> = listOf("Mobile Tech", "Open Source", "Community Building")
-)
-  
+)```
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hasa9nAli&theme=onedark)](https://github.com/Hasa9nAli/github-profile-trophy)
 <br/>
 ![contributions](https://user-images.githubusercontent.com/92353024/207900805-96b3f22f-dc16-4235-b306-cbe70ad62728.svg)
