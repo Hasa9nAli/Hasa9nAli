@@ -22,6 +22,12 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP">
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines">
+  <img src="https://img.shields.io/badge/Koin-F25900?style=for-the-badge&logo=koin&logoColor=white" alt="Koin">
+  <img src="https://img.shields.io/badge/Dagger_Hilt-5C2D91?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt">
+  <img src="https://img.shields.io/badge/MVVM-5C2D91?style=for-the-badge" alt="MVVM">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Ktor">
 </div>
 
 ### UI/UX & Design
