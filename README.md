@@ -4,8 +4,8 @@
 
 ---
 
-### <div align="center">🎓 Software Engineering Student @ University of Mosul (4th Year)</div>
-### <div align="center">🚀 Lead @ Google Developer Student Clubs - UoM</div>
+### <div align="center">🎓 Software Engineering Graduate @ University of Mosul </div>
+### <div align="center">Ranked #2 on Software Engineering Department</div>
 ### <div align="center">👨‍💻 Android Developer (Kotlin, Jetpack Compose, KMP)</div>
 
 <div align="center">
